@@ -1,13 +1,23 @@
 body {
-    background: white;}
+    background: white; 
+} 
+ 
+#blue { 
+    color: blue;
+} 
+ 
+#red { 
+    color: red;
+}
 
 #Paragraph1{
-    color: rgb(82, 77, 77)
+    float: right; 
+    width: 50%;
 }
-#Paragraph2{
-    color: blue;
-    font-size: "30 px"
-}
+   
+img  { 
+    width: 48%; 
 
+}
  
    
