@@ -2,11 +2,12 @@ body {
     background: white;}
 
 #Paragraph1{
-    color: red
+    color: rgb(82, 77, 77)
 }
 #Paragraph2{
-    color: blue
-font-size: 6.0rem}
+    color: blue;
+    font-size: "30 px"
+}
 
  
    
