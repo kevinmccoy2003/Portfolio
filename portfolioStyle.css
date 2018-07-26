@@ -1,23 +1,43 @@
 body {
-    background: white; 
-} 
- 
-#blue { 
+    background: orange;
+}
+
+#blue {
     color: blue;
-} 
- 
-#red { 
+}
+
+#red {
     color: red;
 }
 
-#Paragraph1{
-    float: right; 
+#Paragraph1 {
+    font-family: 'Merienda', cursive;
+    float: right;
     width: 50%;
 }
-   
-img  { 
-    width: 48%; 
+
+img {
+    width: 48%;
+    animation-name: appear;
+    animation-duration: 7s;
+    float: left;
+}
+
+@keyframes appear {
+    0% {
+        tranform: scale(0.1);
+        opacity: 0;
+    }
+    50% {
+        transform: scale (.5);
+        opacity: .5;
+    }
+    75% {
+        transform: scale(1);
+        opacity: 1;
+    }
 
 }
- 
-   
+a:hover{
+    color wh
+}
