@@ -1,0 +1,38 @@
+Portfolio final grade: 83
+
+Comments:  Putting your phone number on your contact page may not be the best idea...
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 93
+(50% of overall grade)
+
+Points deducted for these items:
+  -3 Default document title not changed on 3 pages.
+  -1 Broken Index links on two pages.
+  -1 Invalid img link on About page.
+  -1 p tag content outside of the body on Contact page.
+  -1 rtf copy of resume left in project folder.
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 94
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Google fonts not used.
+    -1 :hover css property is broken.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 50
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media selectors / mobile responsive design not included.
