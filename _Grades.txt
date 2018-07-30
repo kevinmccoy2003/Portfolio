@@ -1,4 +1,4 @@
-Portfolio final grade: 83
+Portfolio final grade: 95
 
 Comments:  Putting your phone number on your contact page may not be the best idea...  Good effort on the assignments.
 
@@ -31,8 +31,8 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 50
+Grade: 100
 (25% of overall grade)
 
 Points deducted for these items:
-    -50 Media selectors / mobile responsive design not included.
+    None
